@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=reverse+%7C+crypto+%7C+forensics+%7C+OSINT+%7C+web" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=videographer+%7C+editor;reverse+%7C+crypto+%7C+forensics+%7C+OSINT+%7C+web" alt="typing banner" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=internetmaniac&color=39ff14&style=flat-square&label=views)
 
 </div>
+
+## 🎬 video
+
+Снимаю и монтирую: клипы, цветокор, визуалы в TouchDesigner, работа с моделями.
+
+**→ [t.me/datacenterfrance](https://t.me/datacenterfrance)**
 
 ## 🔐 about
 
@@ -15,6 +21,10 @@
 
 ## 🛠 toolbox
 
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
