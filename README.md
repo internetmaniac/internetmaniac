@@ -12,16 +12,6 @@
 
 **→ [solarctf-writeups](https://github.com/internetmaniac/solarctf-writeups)**
 
-## 🧩 последние решения
-
-| Категория | Задача |
-|---|---|---|
-| Reverse | Невероятная утка | 
-| Crypto | Нулевой отчёт | 
-| Misc | Локпик | 
-| Forensics | РакушкаBreach | 
-| OSINT | Выцветший след | 
-| Web | Стекадемия | 
 
 ## 🛠 toolbox
 
