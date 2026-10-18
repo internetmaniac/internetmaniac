@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=CTF+player;reverse+%7C+crypto+%7C+forensics+%7C+OSINT;12%2F13+SOLARCTF+2026+solved" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=600&lines=reverse+%7C+crypto+%7C+forensics+%7C+OSINT+%7C+web" alt="typing banner" />
 
 ![Profile views](https://komarev.com/ghpvc/?username=internetmaniac&color=39ff14&style=flat-square&label=views)
 
